@@ -1,3 +1,4 @@
+<!--
 # 프로젝트 OpenBook
 
 <p align="center"><img src="https://github.com/Project-OpenBook/.github/assets/126096318/caf12569-f0ec-420e-acd8-7c9b3052cf3a" width="200" height="200"/></p>
@@ -48,3 +49,6 @@ Others
 |<img width=150 src="https://avatars.githubusercontent.com/u/111634448?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/58856846?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/59019137?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/105481797?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/126096318?v=4" />|
 |:----:|:----:|:----:|:----:|:----:|
 | [김선호](https://github.com/Sunho-97) | [조민기](https://github.com/Nail0606) | [이용준](https://github.com/Goongam) | [문시원](https://github.com/muncool39) | [민서연](https://github.com/gitseoyeon) |
+
+-->
+
