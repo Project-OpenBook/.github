@@ -1,4 +1,4 @@
-![image](https://github.com/Project-OpenBook/.github/assets/58856846/372f9c42-d57d-456e-b34d-7b440801b2dc)# 프로젝트 OpenBook
+# 프로젝트 OpenBook
 
 ### 📙 개요
 <p align="center"><img src="https://github.com/Project-OpenBook/.github/assets/126096318/caf12569-f0ec-420e-acd8-7c9b3052cf3a" width="200" height="200"/></p>
