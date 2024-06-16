@@ -16,6 +16,8 @@
 ![image](https://github.com/Project-OpenBook/.github/assets/58856846/e508d4b6-a2da-4a1c-a1c4-de57ca0c101d)
 <br>
 ### 📺 프로젝트 계획서 PPT
+[계획서](https://github.com/Project-OpenBook/.github/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C_%EB%A7%9B%EA%B9%94%ED%8C%80.pptx)
+![image](https://github.com/Project-OpenBook/.github/assets/58856846/79a1f2a5-3479-4914-9d2d-c24afe418453)
 
 
 ### 📺 프로젝트 발표 PPT
