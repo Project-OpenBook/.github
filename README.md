@@ -12,6 +12,15 @@
 ![image](https://github.com/Project-OpenBook/.github/assets/58856846/e508d4b6-a2da-4a1c-a1c4-de57ca0c101d)
 <br>
 
+### 📺 프로젝트 발표 PPT
+
+### 📽 프로젝트 시연 동영상
+https://github.com/Project-OpenBook/.github/assets/58856846/e2282038-6cc4-4234-98b3-cd5d681dac7b
+
+
+
+
+
 ## 📆 개발 기간
  > **2024.03~**
 <br>
