@@ -22,7 +22,8 @@
 
 ### 📺 프로젝트 발표 PPT
 [발표 자료](https://github.com/Project-OpenBook/.github/blob/main/OPENBOOK(%ED%8C%80_%EB%A7%9B%EA%B9%94)_%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C.pptx)
-![image](https://github.com/Project-OpenBook/.github/assets/58856846/b03e6b29-6136-4933-96a6-310010c4347c)
+![image](https://github.com/Project-OpenBook/.github/assets/58856846/2167e8fb-36bc-4547-bd54-68e323f7e614)
+
 
 
 ### 📽 프로젝트 시연 동영상
