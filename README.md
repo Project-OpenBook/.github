@@ -15,6 +15,8 @@
 ## ✏️ 프로젝트 소개
 ![image](https://github.com/Project-OpenBook/.github/assets/58856846/e508d4b6-a2da-4a1c-a1c4-de57ca0c101d)
 <br>
+### 📺 프로젝트 계획서 PPT
+
 
 ### 📺 프로젝트 발표 PPT
 [발표 자료](https://github.com/Project-OpenBook/.github/blob/main/OPENBOOK(%ED%8C%80_%EB%A7%9B%EA%B9%94)_%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C.pptx)
