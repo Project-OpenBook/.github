@@ -32,7 +32,7 @@ https://github.com/Project-OpenBook/.github/assets/58856846/e2282038-6cc4-4234-9
 [유튜브 링크](https://www.youtube.com/watch?v=h7h_hrqNwEM&ab_channel=%EB%8B%AC%EC%85%98)
 
 ## 📆 개발 기간
- > **2024.03~**
+ > **2024.05~**
 <br>
 
 
