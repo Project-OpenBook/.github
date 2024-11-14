@@ -21,18 +21,17 @@
 
 
 ### 📺 프로젝트 발표 PPT
-[발표 자료](https://github.com/Project-OpenBook/.github/blob/main/OPENBOOK(%ED%8C%80_%EB%A7%9B%EA%B9%94)_%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C.pptx)
-![image](https://github.com/Project-OpenBook/.github/assets/58856846/2167e8fb-36bc-4547-bd54-68e323f7e614)
+[발표자료](https://github.com/user-attachments/files/17748236/default.pdf)
 
+![image](https://github.com/user-attachments/assets/de22d190-a3e1-4d80-9f75-9748f4b62ea1)
 
 
 ### 📽 프로젝트 시연 동영상
-https://github.com/Project-OpenBook/.github/assets/58856846/e2282038-6cc4-4234-98b3-cd5d681dac7b
+https://github.com/user-attachments/assets/89e0922b-cb1c-4b1e-8401-e7b3ea5dcc82
 
-[유튜브 링크](https://www.youtube.com/watch?v=h7h_hrqNwEM&ab_channel=%EB%8B%AC%EC%85%98)
 
 ## 📆 개발 기간
- > **2024.05~**
+ > **2024.05 ~ 2024.11**
 <br>
 
 
@@ -88,5 +87,5 @@ https://github.com/Project-OpenBook/.github/assets/58856846/e2282038-6cc4-4234-9
 <br>
 
 ### 🧮 ERD
-<img width="1369" alt="KakaoTalk_20240616_222025846" src="https://github.com/Project-OpenBook/.github/assets/58856846/56d38ca2-06d3-4000-811a-006f6fd5dfb6">
+<img width="1369" alt="KakaoTalk_20240616_222025846" src="https://github.com/user-attachments/assets/e2f77572-1fe8-4515-9b91-0a272376b743">
 
