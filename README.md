@@ -29,6 +29,7 @@
 ### 📽 프로젝트 시연 동영상
 https://github.com/user-attachments/assets/89e0922b-cb1c-4b1e-8401-e7b3ea5dcc82
 
+[유튜브 링크](https://www.youtube.com/watch?v=aWpZo-ky5MM)
 
 ## 📆 개발 기간
  > **2024.05 ~ 2024.11**
