@@ -1,0 +1,6 @@
+[submodule "OPENBOOK_FRONTEND"]
+	path = OPENBOOK_FRONTEND
+	url = https://github.com/Project-OpenBook/Web.git
+[submodule "OPENBOOK_BACKEND"]
+	path = OPENBOOK_BACKEND
+	url = https://github.com/Project-OpenBook/openbook-server.git
