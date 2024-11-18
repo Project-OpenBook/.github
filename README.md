@@ -37,7 +37,8 @@ https://github.com/user-attachments/assets/89e0922b-cb1c-4b1e-8401-e7b3ea5dcc82
 
 
 ## ⚒️ 개발 환경
-![image](https://github.com/Project-OpenBook/.github/assets/58856846/e5774cc4-8790-47f1-96a9-0e31d76aa3a8)
+![시스템구성도](https://github.com/user-attachments/assets/4799e57f-b6df-4874-b865-6b3729e65d30)
+
 <br>
 
 ## ⚙ 프로세스
