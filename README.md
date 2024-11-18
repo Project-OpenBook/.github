@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/89e0922b-cb1c-4b1e-8401-e7b3ea5dcc82
 <br>
 
 ## 📌 사용자별 주요 기능
-![image](https://github.com/Project-OpenBook/.github/assets/58856846/7fc16b0b-590a-443a-9d20-c462fdc85279)
+![시스템아키텍처](https://github.com/user-attachments/assets/59253b09-ce2e-46d9-976e-742139506c84)
 ### User
 
 #### 행사 운영자
